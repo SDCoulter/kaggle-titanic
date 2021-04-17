@@ -1,2 +1,3 @@
-# kaggle-titanic
-Kaggle Tutorial Data Set - Titanic Survivors
+# Kaggle - Titanic Data Set Tutorial
+
+Working through the Kaggle tutorial dataset for titanic survivors.
